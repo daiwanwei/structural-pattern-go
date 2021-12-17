@@ -7,8 +7,8 @@
 ## 專案描述
 
 ### behavioral pattern
-- [ ]  composite
-- [ ]  adapter
+- [x]  composite
+- [x]  adapter
 - [x]  bridge
 - [x]  proxy
 - [x]  facade
